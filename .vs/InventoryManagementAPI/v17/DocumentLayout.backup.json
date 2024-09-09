@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\mappers\\suppliermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\mappers\\suppliermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\dtos\\supplier\\updatesupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\dtos\\supplier\\updatesupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\interfaces\\isupplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Program.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:16:56.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierMapper.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Mappers\\SupplierMapper.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Mappers\\SupplierMapper.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Mappers\\SupplierMapper.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Mappers\\SupplierMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:01:22.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateSupplierDto.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Dtos\\Supplier\\UpdateSupplierDto.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Dtos\\Supplier\\UpdateSupplierDto.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Dtos\\Supplier\\UpdateSupplierDto.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Dtos\\Supplier\\UpdateSupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:55:29.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISupplierRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Interfaces\\ISupplierRepository.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Interfaces\\ISupplierRepository.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Interfaces\\ISupplierRepository.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Interfaces\\ISupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:52:02.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Controllers\\SupplierController.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwEEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:51:35.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

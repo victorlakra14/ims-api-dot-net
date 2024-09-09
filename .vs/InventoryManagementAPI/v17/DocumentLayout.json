@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|d:\\projects\\dot_net\\inventorymanagementapi\\inventorymanagementapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58231DC7-F2C7-419B-B4CE-D5DD9E4A9ADF}|InventoryManagementAPI\\InventoryManagementAPI.csproj|solutionrelative:inventorymanagementapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryManagementAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\Projects\\Dot_net\\InventoryManagementAPI\\InventoryManagementAPI\\Models\\Order.cs",
+              "RelativeToolTip": "InventoryManagementAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:03:45.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
